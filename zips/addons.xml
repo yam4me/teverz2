@@ -63,7 +63,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.deathstreams" name="Mr Blamos Common Libraries" version="1.0.1" provider-name="Mr Blamo">
+<addon id="script.module.deathstreams" name="Mr Blamos Common Libraries" version="1.1.2" provider-name="Mr Blamo">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
